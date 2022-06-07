@@ -1,0 +1,2 @@
+# Codicia
+Me siento codicioso, siento que solo puedo "ser" si agarro fuerte y no suelto, pero ahora puedo ver a la codicia, ¿para qué necesito tanto dinero?, ¿para conseguir cosas antes?, ¿qué pasa con la creatividad que te caracteriza?, ¿desde cuándo has necesitado dinero para construir algo? 

@@ -1,0 +1,2 @@
+# KYC
+"Know your customer", se utiliza para asegurarse que la persona que opera en la plataforma es una persona real, aunque das tus datos, no se vincula necesariamente con hacienda si haces las cosas correctamente, aunque en una investigación sí que podrían encontrarte.

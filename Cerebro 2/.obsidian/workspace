@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "a3ed936d5c5f0bbd",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac211312c2ea65a1",
+        "type": "leaf",
+        "dimension": 64.63636363636364,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Crecimiento personal/Felicidad.md",
+            "mode": "source",
+            "source": false
+          }
+        },
+        "group": "3e29b57ee571e5d8"
+      },
+      {
+        "id": "ef4575d96eb8caa3",
+        "type": "split",
+        "dimension": 35.36363636363637,
+        "children": [
+          {
+            "id": "2be7de2f6fe8ac14",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Crecimiento personal/Felicidad.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "3e29b57ee571e5d8"
+          },
+          {
+            "id": "1e06a91cef4c3fb4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Crecimiento personal/Felicidad.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "12eac7308ef33e6e",
+    "type": "split",
+    "children": [
+      {
+        "id": "c409be06e811b7bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "961f0fd666493b34",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "64bc8939366659d3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "mensaje",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ee461a8dd644b86b",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d5f372b4208ad85",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "640dce2d0599ddd8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Crecimiento personal/Felicidad.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ac211312c2ea65a1",
+  "lastOpenFiles": [
+    "Crecimiento personal/Felicidad.md",
+    "Salvia.md",
+    "Efedrina.md",
+    "Speed.md",
+    "Temas para escribir.md",
+    "Crecimiento personal/Mensaje para mi hoy.md",
+    "Nihilismo.md",
+    "Crecimiento personal/Vacuidad.md",
+    "Monotube.md",
+    "Untitled.md"
+  ]
+}

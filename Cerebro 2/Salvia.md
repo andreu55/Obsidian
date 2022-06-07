@@ -1,0 +1,4 @@
+# Salvia
+El efecto principal son las alucinaciones táctiles, provoca sinestesia visual y táctil, es decir, “que se ven y se sienten cosas en tu cuerpo”. La salvinorina solo se adhiere al receptor opioide kappa que reduce la dopamina y produce [[Disforia]]. Es como “una disociación de la calidez y la familiaridad con tu cuerpo y las conexiones humanas”.
+
+> Imagina que eres el aire dentro de un globo hinchado y pudieras hacer desaparecer al plástico de repente, ¿qué pasaría contigo? Estás contenido en un cuerpo y se pueden eliminar temporalmente los límites, te puedes deshacer por completo, da miedo y no es agradable, pero si comprendes que el cuerpo no es el límite sino el "plástico" que te contiene no lo tendrás, las cosas que no ves son tan reales como las que ves ahora, "la realidad es una ilusión montada en un caballo de cristal", delicada y en movimiento.

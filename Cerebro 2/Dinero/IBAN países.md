@@ -1,0 +1,76 @@
+# IBAN países
+- [AL] Albania (No SEPA)
+- [AD] Andorra (No SEPA)
+- [AZ] Azerbaiyán (No SEPA)
+- [BH] Bahrein (No SEPA)
+- [BE] Bélgica
+- [BA] Bosnia y Herzegovina (No SEPA)
+- [BR] Brasil (No SEPA)
+- [VG] Islas Vírgenes Británicas (No SEPA)
+- [BG] Bulgaria
+- [CR] Costa Rica (No SEPA)
+- [DK] Dinamarca
+- [DE] Alemania
+- [DO] República Dominicana (No SEPA)
+- [SV] El Salvador (No SEPA)
+- [EE] Estonia
+- [FO] Islas Feroe
+- [FI] Finlandia
+- [FR] Francia
+- [GE] Georgia (No SEPA)
+- [GI] Gibraltar
+- [GR] Grecia
+- [GL] Groenlandia
+- [GB] Gran Bretaña
+- [GT] Guatemala (No SEPA)
+- [IQ] Irak (No SEPA)
+- [IE] Irlanda
+- [IS] Islandia
+- [IL] Israel (No SEPA)
+- [IT] Italia
+- [JO] Jordania (No SEPA)
+- [KZ] Kazajstán (No SEPA)
+- [QA] Katar (No SEPA)
+- [XK] Kosovo (No SEPA)
+- [HR] Croacia
+- [KW] Kuwait (No SEPA)
+- [LV] Letonia
+- [LB] Líbano (No SEPA)
+- [LI] Liechtenstein
+- [LT] Lituania
+- [LU] Luxemburgo
+- [MT] Malta
+- [MR] Mauritania (No SEPA)
+- [MU] Mauricio (No SEPA)
+- [MK] macedonia (No SEPA)
+- [MD] Moldavia (No SEPA)
+- [MC] Mónaco
+- [ME] Montenegro (No SEPA)
+- [NL] Países Bajos
+- [NO] Noruega
+- [AT] Austria
+- [PK] Pakistán (No SEPA)
+- [PS] Palestina (No SEPA)
+- [PL] Polonia
+- [PT] Portugal
+- [RO] Rumania
+- [LC] Santa Lucía (No SEPA)
+- [SM] San Marino
+- [ST] Santo Tomé y Príncipe (No SEPA)
+- [SA] Arabia Saudita (No SEPA)
+- [SE] Suecia
+- [CH] Suiza
+- [RS] Serbia (No SEPA)
+- [SC] Seychelles (No SEPA)
+- [SK] República Eslovaca
+- [SI] Eslovenia
+- [ES] España
+- [TL] Timor Oriental (No SEPA)
+- [TR] Turquía (No SEPA)
+- [CZ] Chequia
+- [TN] Túnez (No SEPA)
+- [UA] Ucrania (No SEPA)
+- [HU] Hungría
+- [AE] Emiratos Árabes Unidos (No SEPA)
+- [BY] Belarús (No SEPA)
+- [CY] Chipre

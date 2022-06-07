@@ -1,0 +1,31 @@
+# Formateo y limpieza de ordenador
+Programas:
+- Atom
+- Brave
+- Ccleaner
+- Cisco AnyConnect
+- Composer
+- Discord
+- Dropbox
+- Filezilla (Ojo backup!)
+- Foxit Reader
+- GIMP
+- Git version para windows
+- GitHub Desktop
+- Handbrake
+- HeidiSQL
+- [[Certificados DNI]]
+- Mavis HUB
+- MEGA
+- Firefox
+- Obsidian
+- Postman
+- [[Putty]] (Ojo backup!)
+- Slack
+- SourceTree
+- Spotify
+- Steam
+- Sublime Text
+- VLC
+- WinRar
+- Xampp
