@@ -1,5 +1,5 @@
 # Samsara
-Es como en el [[budismo]] llaman a la existencia cíclica, a repetir una y otra vez la vida según tu karma
+Es como en el [[Budismo 1]] llaman a la existencia cíclica, a repetir una y otra vez la vida según tu karma
 
 > El casino de Samsara está trucado y aunque te dé una limosna de vez en cuando, la banca siempre gana
 

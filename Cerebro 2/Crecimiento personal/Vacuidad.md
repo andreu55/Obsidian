@@ -11,7 +11,7 @@ Le damos la vuelta a la frase "Los árboles no dejan ver el bosque" a "El bosque
 La vacuidad nos recuerda que la verdad última del "bosque" es que carece de tu concepto de "bosque", nos recuerda el camino (y nos ayuda a aproximarnos a esa verdad última)
 
 La sabiduría de la vacuidad tiene riesgo de ser malinterpretada.  
-Si la vacuidad nos dice que las cosas (personas, situaciones) no existen, ¿para qué preocuparse por ellas?, ¿para qué perder el tiempo amando y cuidando algo que no existe?, ¿no es esto [[Nihilismo]]?
+Si la vacuidad nos dice que las cosas (personas, situaciones) no existen, ¿para qué preocuparse por ellas?, ¿para qué perder el tiempo amando y cuidando algo que no existe?, ¿no es esto [[Nihilismo 1]]?
   
 Porque lo que está equivocado es **nuestro concepto** de cómo son las cosas; lo que no existe son esas cosas que creemos que están ahí fuera, inherente e independientemente de todo lo demás (en especial de mí mismo).  
   

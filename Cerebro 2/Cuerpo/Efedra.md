@@ -1,6 +1,6 @@
 # Efedra
 
-Planta de la que se saca la efedrina, principio activo del [[Speed]]
+Planta de la que se saca la efedrina, principio activo del [[Speed 1]]
 
 https://www.cannabismagazine.net/efedra-la-madre-de-todas-las-anfetaminas/
 

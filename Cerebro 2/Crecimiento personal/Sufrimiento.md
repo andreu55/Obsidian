@@ -3,7 +3,7 @@
 
 Es bueno en la medida que nos ayuda a:
 - Reducir nuestro [[Orgullo]]
-- Reconocer la ley del [[Karma]] (reconocer el valor de la buena conducta)
+- Reconocer la ley del [[Karma 1]] (reconocer el valor de la buena conducta)
 - Empatizar con otros (a desarrollar compasión con otros seres)
 
 Codicia, Odio e Ignorancia son las raíces más profundas del sufrimiento.

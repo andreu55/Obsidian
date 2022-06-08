@@ -7,7 +7,7 @@ El ego es lo que identificamos como nuestra identidad o "personalidad".
 
 El ego es como un "falso yo", es esa parte de ti (que no es tu cuerpo ni tus pensamientos) que crees que te define como individuo, eterno, independiente del universo, cuando dices "a mí me gusta esto" o "yo pienso de esta manera PORQUE SOY ASÍ", en realidad tú no "eres así", tú puedes cambiar con el tiempo, pero eso que intenta definirse constantemente es el ego, es esa parte de ti que dice "yo soy así y esto es lo que hay"
 
-Al no comprender quienes somos surgen diferentes compensaciones como el [[Orgullo]] o el [[Vacío existencial]]
+Al no comprender quienes somos surgen diferentes compensaciones como el [[Orgullo]] o el [[Vacío existencial 1]]
 
 Surge de nuestra incapacidad de aceptar que la conciencia pura en sí misma es cambiante y dinámica, y nos obliga a definir "quienes somos", en otras palabras, el miedo a "no ser" nos obliga a definirnos.
 

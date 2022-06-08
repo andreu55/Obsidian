@@ -6,11 +6,11 @@
       {
         "id": "ac211312c2ea65a1",
         "type": "leaf",
-        "dimension": 64.63636363636364,
+        "dimension": 30.992509363295877,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Crecimiento personal/Felicidad.md",
+            "file": "Planeta/Sucesión ecológica.md",
             "mode": "source",
             "source": false
           }
@@ -18,9 +18,22 @@
         "group": "3e29b57ee571e5d8"
       },
       {
+        "id": "c7b49c748e59e639",
+        "type": "leaf",
+        "dimension": 30.992509363295877,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Planeta/Comunidad.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
         "id": "ef4575d96eb8caa3",
         "type": "split",
-        "dimension": 35.36363636363637,
+        "dimension": 38.01498127340824,
         "children": [
           {
             "id": "2be7de2f6fe8ac14",
@@ -28,7 +41,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Crecimiento personal/Felicidad.md",
+                "file": "Planeta/Sucesión ecológica.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -51,7 +64,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
+                  "scale": 1.660022879550481,
                   "close": false
                 }
               }
@@ -64,13 +77,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Crecimiento personal/Felicidad.md",
+                "file": "Planeta/Comunidad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
@@ -103,7 +116,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mensaje",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -132,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Crecimiento personal/Felicidad.md",
+                "file": "Planeta/Comunidad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,17 +163,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ac211312c2ea65a1",
+  "active": "c7b49c748e59e639",
   "lastOpenFiles": [
-    "Crecimiento personal/Felicidad.md",
-    "Salvia.md",
-    "Efedrina.md",
-    "Speed.md",
-    "Temas para escribir.md",
-    "Crecimiento personal/Mensaje para mi hoy.md",
-    "Nihilismo.md",
-    "Crecimiento personal/Vacuidad.md",
-    "Monotube.md",
-    "Untitled.md"
+    "Planeta/Comunidad.md",
+    "Cristina.md",
+    "Crecimiento personal/Facilitación grupos.md",
+    "Crecimiento personal/Inner child.md",
+    "Leche de Avena.md",
+    "Crecimiento personal/Maestro.md",
+    "Planeta/Plantas para sombra.md",
+    "Planeta/Usos de la piel de naranja.md",
+    "Planeta/Tamera.md",
+    "Planeta/Sucesión ecológica.md"
   ]
 }

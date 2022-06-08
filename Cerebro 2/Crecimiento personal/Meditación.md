@@ -1,6 +1,6 @@
 # Meditación
 
-La finalidad es ser cada vez conscientes y descubrir la naturaleza de la mente, en definitiva, salir de [[Samsara]]
+La finalidad es ser cada vez conscientes y descubrir la naturaleza de la mente, en definitiva, salir de [[Samsara 1]]
 
 La meditación no es aislarnos del mundo, sino trascenderlo, **buscar a la verdad**, el objetivo es eliminar las distorsiones de nuestro [[Ego]], ser cada vez más consciente de las diferencias entre la realidad que vemos y la [[Verdad]]
 
